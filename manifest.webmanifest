@@ -23,8 +23,8 @@
   "background_color": "#000000",
   "display": "standalone",
   "lang": "en-US",
-  "id": "https://github.com/nexvaxsoftware/lutar-matrix-effect",
-  "start_url": "/matrix-effect/",
-  "scope": "/matrix-effect/",
+  "id": "https://lutar.io",
+  "start_url": "/",
+  "scope": "/",
   "description": "A matrix animation app."
 }
