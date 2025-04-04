@@ -6,7 +6,7 @@
 ![Canvas API](https://img.shields.io/badge/Canvas%20API-%23000000.svg?style=flat&logo=canvas&logoColor=white)
 
 <p align="center">
-  <img src="https://res.cloudinary.com/deco31416/image/upload/v1735674633/Matrix-Animation_fiu0f5.png" alt="Matrix Rain Animation Preview" width="600">
+  <img src="https://github.com/nexvaxsoftware/lutar-matrix-effect/blob/main/assets/img/favicon.png" alt="Lutar Logo" width="40">
 </p>
 
 ## Description
